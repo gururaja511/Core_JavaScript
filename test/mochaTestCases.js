@@ -1,4 +1,5 @@
 var UtilityFile =require('../UtilityFile.js');
+var UtilityFile1 =require('../UtilityFile1.js');
 var assert = require('assert');
 
 describe("describe first mocha testcase",function(){
@@ -9,6 +10,7 @@ it("Describing how to execute mocha testcaes1",function(){
   console.log("2) we have to main 'scripts': {' 'test': 'mocha' } in package.json");
   console.log("to run --> npm test");
 
+  console.log("Accesing the UtilityFile variables "+ UtilityFile1.age);
 
 });
 it("validating add function testcaes2",function(){
@@ -18,4 +20,10 @@ assert.equal(UtilityFile.add(2,3), '5', 'sum verifiction');
 
 });
 
+it("validating add function testcaes2 with another way of export",function(){
+
+console.log("sum of 2nd way "+UtilityFile1.add(2,3));
+assert.equal(UtilityFile1.add(2,3), '5', 'sum verifiction');
+
+});
 });

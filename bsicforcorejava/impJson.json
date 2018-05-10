@@ -1,0 +1,471 @@
+{
+    "sId": "u8H2s.commerceApp-192748932-2-215430618",
+    "statusCode": "0",
+    "statusMessage": "The API Check Post Code was executed successfully",
+    "postcodeDeliveryMessage": "Good news! Yes, we do deliver groceries to DN21 1DZ",
+    "checkPostcodeValidation": "true",
+    "isdeliverable": "true",
+    "inDeliveryArea": "true",
+    "inCollectArea": "true",
+    "quickregstorerollout": "true",
+    "addresses": [
+        {
+            "address": "1 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "2 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "3 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "4 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "5 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "6 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "7 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "8 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "9 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "10 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "11 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "12 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "14 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "15 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "16 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "17 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "18 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "19 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "20 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "22 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        },
+        {
+            "address": "24 John Jenkinson Close",
+            "town": "GAINSBOROUGH",
+            "county": "Lincolnshire"
+        }
+    ],
+    "storeDetails": [
+        {
+            "storeid": "4640",
+            "distance": "0.0",
+            "storename": "5727-CNC",
+            "postalCode": "CA3 0JQ",
+            "addressLine1": "ADDRESS 1",
+            "addressLine2": "ADDRESS2",
+            "city": "TOWN",
+            "phoneNumber": "01302 500250",
+            "county": "",
+            "directions": "Depart Lower High Street toward New Road0.2 mi\r\nBear right onto A411 / Lower High Street&amp;lt; 0.1 mi\r\nTurn right onto Dalton Way0.4 mi\r\nKeep straight onto A411 / Waterfields Way0.2 mi\r\nAt roundabout, take 1st exit0.3 mi\r\nAt roundabout, take 2nd exit onto A4008 / Stephenson Way0.8 mi\r\nAt roundabout, take 2nd exit0.8 mi\r\nAt roundabout, take 1st exit onto slip road0.2 mi\r\nMerge onto A41 / Colne Way / North Western Avenue0.9 mi",
+            "storehours": "Closed,Open 24 hours,7am-5pm,12am-2pm,1am-10pm,24 hours,11am-5pm",
+            "comments": "supermarket:Supermarket:info=pharmacy-optician-dayandnight-baby-george-money-supercentre-living-disability"
+        },
+        {
+            "storeid": "9083",
+            "distance": "0.0",
+            "storename": "RCnC 2 of 5727",
+            "postalCode": "DN21 1AF",
+            "addressLine1": "address oneee edit",
+            "addressLine2": "",
+            "city": "Townn",
+            "phoneNumber": "01231231231",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "9080",
+            "distance": "0.0",
+            "storename": "new rcnc",
+            "postalCode": "DN21 1AD",
+            "addressLine1": "add one",
+            "addressLine2": "ad two",
+            "city": "city",
+            "phoneNumber": "01231231231",
+            "county": "",
+            "directions": "tester",
+            "storehours": "Closed,Open 24 hours,7am-5pm,12am-2pm,1a\r\nm-10pm,24 hours,11am-5pm",
+            "comments": "info=pharmacy-optician-dayandnight-baby-\r\ngeorge-money-supercentre-living-disabili\r\nty-petrol"
+        },
+        {
+            "storeid": "8976",
+            "distance": "0.0",
+            "storename": "5727 cave RCnC4",
+            "postalCode": "DN21 1DZ",
+            "addressLine1": "5727 cave RCnC4",
+            "addressLine2": "",
+            "city": "Cave",
+            "phoneNumber": "0987654321",
+            "county": "",
+            "directions": "This is text to verify one of OSO story. Test1\r\nThis is text to verify one of OSO story. Test1\r\n\r\n&amp;lt;a href=&amp;quot;http://www.asda.com/click-and-collect/ &amp;quot;target=&amp;quot;_blank&amp;quot; class=&amp;quot;linkUnderline&amp;quot;&amp;gt;Find out more&amp;lt;/a&amp;gt;",
+            "storehours": "",
+            "comments": "tube:Tube Collection"
+        },
+        {
+            "storeid": "1881",
+            "distance": "7.1",
+            "storename": "East Retford Store",
+            "postalCode": "LN1 2AB",
+            "addressLine1": "Wharfe Road, Retford, DN22 6EN",
+            "addressLine2": "",
+            "city": "Retfort",
+            "phoneNumber": "01777 860810",
+            "county": "",
+            "directions": "quick deliery",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "5789",
+            "distance": "9.0",
+            "storename": "RCNC for 4966",
+            "postalCode": "DN22 7EN",
+            "addressLine1": "Address1 for RCNC for 4966",
+            "addressLine2": "Address2 for RCNC for 4966",
+            "city": "Leeds",
+            "phoneNumber": "0123456789",
+            "county": "Yorkshire",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "4966",
+            "distance": "9.3",
+            "storename": "4966 - East Retford",
+            "postalCode": "DN22 6EN",
+            "addressLine1": "Address Line 1",
+            "addressLine2": "Address Line 2",
+            "city": "East Retford",
+            "phoneNumber": "0123456789",
+            "county": "East Retford",
+            "directions": "Test Direction",
+            "storehours": "Test Store Hours",
+            "comments": "comments"
+        },
+        {
+            "storeid": "9416",
+            "distance": "10.5",
+            "storename": "52416-RCNC-9416",
+            "postalCode": "LN1 2LR",
+            "addressLine1": "52416-RCNC-9416",
+            "addressLine2": "",
+            "city": "town",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "atg",
+            "storehours": "atg",
+            "comments": "atg"
+        },
+        {
+            "storeid": "52316",
+            "distance": "14.0",
+            "storename": "52316 CNC",
+            "postalCode": "LN1 1LN",
+            "addressLine1": "CNC ADDRESS",
+            "addressLine2": "",
+            "city": "ENGLAND",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "9564",
+            "distance": "14.0",
+            "storename": "9564 -52316-RCNC",
+            "postalCode": "LN1 1LR",
+            "addressLine1": "9564 -52316-RCNC",
+            "addressLine2": "",
+            "city": "ENGLAND",
+            "phoneNumber": "0147852369",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "7663",
+            "distance": "14.0",
+            "storename": "Deepika Test Store1 for RCNC",
+            "postalCode": "DN15 8AQ",
+            "addressLine1": "test address line",
+            "addressLine2": "",
+            "city": "test city",
+            "phoneNumber": "0123456789",
+            "county": "test country",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "9732",
+            "distance": "14.1",
+            "storename": "5732 -RCNC -DN7 6BX-9732",
+            "postalCode": "DN7 6BX",
+            "addressLine1": "Yorkshire",
+            "addressLine2": "",
+            "city": "Hatfield",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "CHECK",
+            "storehours": "STORE",
+            "comments": "COMMENTS"
+        },
+        {
+            "storeid": "5732",
+            "distance": "15.8",
+            "storename": "5732-Doncaster-CNC",
+            "postalCode": "DN7 6BS",
+            "addressLine1": "Hatfield",
+            "addressLine2": "",
+            "city": "Doncaster",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "Test Directions",
+            "storehours": "Store Hrs : 8am to 11pm",
+            "comments": "Comments for CNC"
+        },
+        {
+            "storeid": "9632",
+            "distance": "16.1",
+            "storename": "5732 -RCNC -DN7 6JD-9632",
+            "postalCode": "DN7 6JD",
+            "addressLine1": "Dartford",
+            "addressLine2": "Doncaster",
+            "city": "Town",
+            "phoneNumber": "0147852369",
+            "county": "England",
+            "directions": "Directions",
+            "storehours": "Store Hours",
+            "comments": "Comments"
+        },
+        {
+            "storeid": "9532",
+            "distance": "16.2",
+            "storename": "9532-5732 RCNC-DN76SN",
+            "postalCode": "DN7 6SN",
+            "addressLine1": "Parkstone Grove",
+            "addressLine2": "Hatfield",
+            "city": "Yorkshire",
+            "phoneNumber": "0987654321",
+            "county": "Doncaster",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "5727",
+            "distance": "17.3",
+            "storename": "5727-CNC",
+            "postalCode": "DN21 2FL",
+            "addressLine1": "ADDRESS 1",
+            "addressLine2": "ADDRESS2",
+            "city": "TOWN",
+            "phoneNumber": "01302 500250",
+            "county": "",
+            "directions": "Depart Lower High Street toward New Road0.2 mi\r\nBear right onto A411 / Lower High Street&amp;lt; 0.1 mi\r\nTurn right onto Dalton Way0.4 mi\r\nKeep straight onto A411 / Waterfields Way0.2 mi\r\nAt roundabout, take 1st exit0.3 mi\r\nAt roundabout, take 2nd exit onto A4008 / Stephenson Way0.8 mi\r\nAt roundabout, take 2nd exit0.8 mi\r\nAt roundabout, take 1st exit onto slip road0.2 mi\r\nMerge onto A41 / Colne Way / North Western Avenue0.9 mi",
+            "storehours": "Closed,Open 24 hours,7am-5pm,12am-2pm,1am-10pm,24 hours,11am-5pm",
+            "comments": "supermarket:Supermarket:info=pharmacy-optician-dayandnight-baby-george-money-supercentre-living-disability"
+        },
+        {
+            "storeid": "5733",
+            "distance": "17.4",
+            "storename": "5733- test",
+            "postalCode": "DN8 4AB",
+            "addressLine1": "test1",
+            "addressLine2": "test2",
+            "city": "uk",
+            "phoneNumber": "0123456789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "7890",
+            "distance": "17.5",
+            "storename": "5733 RCNC",
+            "postalCode": "DN8 4DL",
+            "addressLine1": "test1",
+            "addressLine2": "test2",
+            "city": "uk",
+            "phoneNumber": "0123456789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "52816",
+            "distance": "18.6",
+            "storename": "52816 CNC",
+            "postalCode": "LN7 6AA",
+            "addressLine1": "CNC ADDRESS",
+            "addressLine2": "",
+            "city": "ENGLAND",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "9568",
+            "distance": "18.7",
+            "storename": "9568 -52816-RCNC",
+            "postalCode": "LN7 6AR",
+            "addressLine1": "9568 -52816-RCNC",
+            "addressLine2": "",
+            "city": "ENGLAND",
+            "phoneNumber": "0123654789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "5342",
+            "distance": "23.1",
+            "storename": "5733-RCNC second",
+            "postalCode": "DN14 5PL",
+            "addressLine1": "sdasd",
+            "addressLine2": "",
+            "city": "asda",
+            "phoneNumber": "0123456789",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "4666",
+            "distance": "23.7",
+            "storename": "create cnc",
+            "postalCode": "NG19 0HA",
+            "addressLine1": "address 1",
+            "addressLine2": "address2",
+            "city": "city",
+            "phoneNumber": "01231231231",
+            "county": "",
+            "directions": "",
+            "storehours": "",
+            "comments": ""
+        },
+        {
+            "storeid": "9595",
+            "distance": "24.8",
+            "storename": "5755 RCNC",
+            "postalCode": "S13 7RN",
+            "addressLine1": "10 N Colester Ave&amp;#39;s",
+            "addressLine2": "",
+            "city": "Lincoln",
+            "phoneNumber": "0115554444",
+            "county": "Kettering",
+            "directions": "Test Directions",
+            "storehours": "checking special",
+            "comments": "Testing fine"
+        },
+        {
+            "storeid": "9755",
+            "distance": "25.7",
+            "storename": "GIF-RCNC-S13 9BD",
+            "postalCode": "S13 9BD",
+            "addressLine1": "Medlock Crescent",
+            "addressLine2": "Sheffield",
+            "city": "South Yorkshire",
+            "phoneNumber": "0147852369",
+            "county": "EN",
+            "directions": "Check the signal",
+            "storehours": "",
+            "comments": "GIF-RCNC set up"
+        },
+        {
+            "storeid": "5731",
+            "distance": "26.1",
+            "storename": "5731 CnC",
+            "postalCode": "S13 9BN",
+            "addressLine1": "Kettering Cnc",
+            "addressLine2": "",
+            "city": "kettering",
+            "phoneNumber": "0987654321",
+            "county": "",
+            "directions": "supercenter-living",
+            "storehours": "Closed,Open 24 hours,7am-5pm,12am-2pm,1am-10pm,24 hours,11am-5pm",
+            "comments": "info=pharmacy-optician-dayandnight-baby-george-money-supercentre-living-disability-petrol"
+        }
+    ],
+    "errors": []
+}
